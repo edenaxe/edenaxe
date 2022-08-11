@@ -9,7 +9,9 @@
 
 #### Languages + Tools
 
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"/>  <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png"/>
+
+
 
 #### My GitHub Stats (Don't Laugh)
 
