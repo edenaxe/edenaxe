@@ -7,7 +7,7 @@
 - 😎 I’m interested in exploring data science (especially if it covers climate change, sustainability, coffee, or climbing) 
 - 📚 I’m always learning and excited to collab
 
-#### Languages I Use
+#### Languages + Tools
 
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
 
