@@ -4,7 +4,7 @@
 
 #### About Me
 - 🌎 I'm a climate change and sustainability professional 
-- 😎 I’m interested in exploring data science (especially if it covers climate change, sustainability, coffee, or climbing) 
+- 😎 I’m interested in data science (especially if it covers climate change, sustainability, coffee, or climbing) 
 - 📚 I’m always learning and excited to collab
 
 #### Languages + Tools
