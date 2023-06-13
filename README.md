@@ -15,7 +15,7 @@
 [<img title="Markdown" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>](https://www.markdownguide.org/)
 [<img title="Kaggle" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"/>](https://www.kaggle.com/)
 [<img title="QGIS" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png"/>](https://www.qgis.org/en/site/)
-[<img title="ESRI ArcGIS" height=40 src="https://www.esri.com/content/esri-sites/en-us/arcgis/products/arcgis-pro/buy/_jcr_content/par/grid_container_copy_/gc-par/columnsystem/wpar/image.coreimg.90.584.png/1659975693670/arcgis-pro.png.png"/>](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
+[<img title="ESRI ArcGIS" height=40 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png"/>](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
 [<img title="Tableau" height=40 src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/>](https://www.tableau.com/)
 [<img title="Building Transperancy EC3" height=40 src="https://buildingtransparency.org/assets/svg/ec3.svg"/>](https://buildingtransparency.org/ec3)
 
